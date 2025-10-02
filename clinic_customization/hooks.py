@@ -1,8 +1,8 @@
 app_name = "clinic_customization"
 app_title = "Clinic Customization"
 app_publisher = "NexTash"
-app_description = "clinic_customization"
-app_email = "Support@nextash.com"
+app_description = "Clinic Customization"
+app_email = "support@nextash.com"
 app_license = "mit"
 
 # Apps

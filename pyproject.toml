@@ -1,9 +1,9 @@
 [project]
 name = "clinic_customization"
 authors = [
-    { name = "NexTash", email = "Support@nextash.com"}
+    { name = "NexTash", email = "support@nextash.com"}
 ]
-description = "clinic_customization"
+description = "Clinic Customization"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

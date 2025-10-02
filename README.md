@@ -1,6 +1,6 @@
 ### Clinic Customization
 
-clinic_customization
+Clinic Customization
 
 ### Installation
 
